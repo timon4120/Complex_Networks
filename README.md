@@ -10,7 +10,8 @@
 ---
 
 - QVoter_ER_KO: <b> Q-Voter model with independence on multiplex ER network and phase transitions</b>. [Literature source](https://journals.aps.org/pre/pdf/10.1103/PhysRevE.102.022314).
-
+- ER_Metropolis_KO: <b> ER Model. Classic algorithm compared with Metropolis Monte Carlo version. </b>
+- Scale_Free_Sample_KO: <b> Scale-Free Network Model. Example of average nearest neighbor degrees.</b>.
 ---
 <p align = "center">Real Data Networks<p>
 
